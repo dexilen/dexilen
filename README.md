@@ -1,6 +1,6 @@
 <div id="header" align = "center">
     <img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" alt="Me :)" width="200">
-    <h1 align = "center">Hi, I'm Dexilen 😎</h1>
+    <h1 align = "center">Hi, I'm Dexilen 🤓</h1>
     <h3 align = "center" font-><i>I have been involved in the tech world for over 10 years now (2022) and now I'm diving deep into becoming a frontend developer.</i></h3>
 </div>
 
